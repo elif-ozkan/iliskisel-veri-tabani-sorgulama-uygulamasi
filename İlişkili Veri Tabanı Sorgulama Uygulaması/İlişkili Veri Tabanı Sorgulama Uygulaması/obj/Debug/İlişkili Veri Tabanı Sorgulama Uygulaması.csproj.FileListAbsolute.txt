@@ -1,0 +1,22 @@
+C:\Users\elifo\Desktop\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\bin\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.exe.config
+C:\Users\elifo\Desktop\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\bin\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.exe
+C:\Users\elifo\Desktop\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\bin\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.pdb
+C:\Users\elifo\Desktop\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili_Veri_Tabanı_Sorgulama_Uygulaması.Form1.resources
+C:\Users\elifo\Desktop\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili_Veri_Tabanı_Sorgulama_Uygulaması.Properties.Resources.resources
+C:\Users\elifo\Desktop\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.exe
+C:\Users\elifo\Desktop\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.pdb
+C:\Users\elifo\Desktop\PROJELERİM\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\bin\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.exe.config
+C:\Users\elifo\Desktop\PROJELERİM\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\bin\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.exe
+C:\Users\elifo\Desktop\PROJELERİM\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\bin\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.pdb
+C:\Users\elifo\Desktop\PROJELERİM\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\PROJELERİM\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\PROJELERİM\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili_Veri_Tabanı_Sorgulama_Uygulaması.Form1.resources
+C:\Users\elifo\Desktop\PROJELERİM\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili_Veri_Tabanı_Sorgulama_Uygulaması.Properties.Resources.resources
+C:\Users\elifo\Desktop\PROJELERİM\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\PROJELERİM\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\PROJELERİM\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.exe
+C:\Users\elifo\Desktop\PROJELERİM\İlişkili Veri Tabanı Sorgulama Uygulaması\İlişkili Veri Tabanı Sorgulama Uygulaması\obj\Debug\İlişkili Veri Tabanı Sorgulama Uygulaması.pdb
